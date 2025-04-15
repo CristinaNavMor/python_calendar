@@ -1,4 +1,5 @@
-🗓️ # Calendario en Python | Python Calendar Project
+ # Calendario en Python | Python Calendar Project
+
 🇪🇸 ### Descripción
 
 Este proyecto contiene tres scripts en Python que generan calendarios usando matrices. Incluyen:
